@@ -59,14 +59,6 @@ Core flow:
 - Improve responsive styling for mobile screens
 - Add filtering by upcoming, completed, or overdue tasks
 
-## Screenshots
-
-Add a screenshot here after opening the app in your browser:
-
-```text
-assets/screenshot.png
-```
-
 ## Author
 
 Created as a simple, practical JavaScript project for learning DOM manipulation, event handling, and dynamic UI rendering.
